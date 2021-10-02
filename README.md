@@ -37,7 +37,7 @@ Follow the following steps:
 - Open command promt and run "pip" inorder to confirm installation.
 - Your Python version has been degraded :)
 
-## 📫 Contact Me: 
+## Contact Me: 
 <p align="center">
   <a href="http://www.hxndev.com/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="mailto:chhxnshah@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
